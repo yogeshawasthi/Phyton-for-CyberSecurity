@@ -4,3 +4,4 @@ def remove_malware():
 
 remove_malware()
 # no class today coz there was game and i need to finish aws cloud foundagtions
+# no internet br
