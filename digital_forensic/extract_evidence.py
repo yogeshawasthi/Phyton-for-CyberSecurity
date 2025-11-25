@@ -9,3 +9,6 @@ print("Extracted Evidence:")
 for log in log_data:
     if "CRITICAL" in log or "WARNING" in log:
         print(log)
+
+    else:
+        print("further operations should be done in advance to complete")    
