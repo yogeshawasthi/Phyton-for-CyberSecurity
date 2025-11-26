@@ -12,3 +12,4 @@ for log in log_data:
 
     else:
         print("further operations should be done in advance to complete")    
+        print("No more worries")
